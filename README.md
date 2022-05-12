@@ -22,10 +22,10 @@
  <img align="left" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
  <img align="left" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
  <img align="left" src="https://img.icons8.com/color/48/git.png"/>
- <img align="left" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
 </p>
 
-
+<br/>
+<br/>
 
 ------------------------------------------------
 <p>
