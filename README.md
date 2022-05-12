@@ -12,16 +12,18 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48"/>
- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="48" height="48"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
- <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
  <img align="left" src="https://img.icons8.com/color/48/bootstrap.png"/>
  <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
  <img align="left" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
  <img align="left" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
  <img align="left" src="https://img.icons8.com/color/48/git.png"/>
+ <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 </p>
 
 <br/>
