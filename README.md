@@ -1,14 +1,10 @@
 ### Hi there, I'm Tunahan. :blush: <br/><br/>
-
-
 ------------------------------------------------
 
 
 <br/>- 🌱  I’m currently learning .NET Core and React.js <br/><br/>
 
 -----------------------------------------------
-
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -23,9 +19,7 @@
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 <br/>
-<br/>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TunahanKaracoban&show_icons=true&theme=radical&locale=en&layout=compact" alt="TunahanKaracoban" /></p>  <br/><br/>
- 
 <br/><br/><br/><br/><p><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tunahankaracoban/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="tunahankaracoban" height="30" width="30" /></a> 
